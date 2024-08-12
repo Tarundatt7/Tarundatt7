@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead]( https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+![MasterHead]( https://media.licdn.com/dms/image/v2/D4D16AQHAMy3TnnXfPw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1699615561363?e=1729123200&v=beta&t=sRNag9CdsRCYP0KMvQ_k_CDO5mtvYI6mGQoDO9i7rRQ)
 <h1 align="center">Hi 👋, I'm Tarun Datt</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
